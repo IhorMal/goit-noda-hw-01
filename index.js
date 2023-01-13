@@ -15,7 +15,8 @@ const argv = program.opts();
 function invokeAction({ action, id, name, email, phone }) {
   switch (action) {
     case "list":
-    listContacts().then(data => console.log(data))
+    listContacts().then(data => console.table(data))
+    
       break;
 
     case "get":
