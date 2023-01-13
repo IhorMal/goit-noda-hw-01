@@ -1,8 +1,4 @@
 # goit-noda-hw-01
 
-<!-- https://ibb.co/7VPwbRm
-https://ibb.co/wK0Q05Q
-https://ibb.co/hc14B8M
-https://ibb.co/GJCH3vn -->
 
-![In what order to compile the files](https://ibb.co/7VPwbRm)
+![photo1673648559](https://user-images.githubusercontent.com/102248912/212431480-390b8a3e-56ba-4362-998f-da13b3404572.jpeg)
