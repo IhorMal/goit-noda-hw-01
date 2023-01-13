@@ -1,0 +1,30 @@
+{
+  "name": "goit-noda-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhorMal/goit-noda-hw-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IhorMal/goit-noda-hw-01/issues"
+  },
+  "homepage": "https://github.com/IhorMal/goit-noda-hw-01#readme",
+  "dependencies": {
+    "commander": "^9.5.0",
+    "nodemon": "^2.0.20",
+    "uniqid": "^5.4.0",
+    "yargs": "^17.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "~2.0.20"
+  }
+}
